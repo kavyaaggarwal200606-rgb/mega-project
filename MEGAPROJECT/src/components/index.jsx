@@ -10,8 +10,8 @@ import Cherker from "./Authlayout";
 import Postform from "./postform/postform";
 import Footer from "./footer/Footer";
 import Postcard from "./Postcard";
-import Select from "./Select";
 
 
 
-export {Signup ,  Select,Login ,Postcard , Logo , Input , RTE , Container , Button , Cherker , Postform, Footer } 
+
+export {Signup , Login ,Postcard , Logo , Input , RTE , Container , Button , Cherker , Postform, Footer } 
