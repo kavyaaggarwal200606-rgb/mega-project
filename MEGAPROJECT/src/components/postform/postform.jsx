@@ -6,7 +6,8 @@ import {useForm, Watch} from "react-hook-form"
 import Button from '../commonbut'
 import Input from '../input'
 import { useSelector } from 'react-redux'
-import Select from '../Select';
+// import Select from '../Select';
+import Select from "../Select"
 import RTE from '../RTE'
 
 function Postform({post}) {
