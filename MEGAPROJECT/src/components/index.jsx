@@ -9,7 +9,7 @@ import Button from "./commonbut";
 import Cherker from "./Authlayout";
 import Postform from "./postform/postform";
 import Footer from "./footer/Footer";
-import Postcard from "./postcard";
+import Postcard from "./Postcard";
 
 
 
