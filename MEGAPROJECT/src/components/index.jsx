@@ -2,7 +2,7 @@ import Signup from "./Signup";
 import Login from "./Login";
 import Logo from "./logo";
 import Input from "./input";
-
+import Select from "./Select";
 import RTE from "./RTE";
 import Container from "./container";
 import Button from "./commonbut";
@@ -14,4 +14,5 @@ import Postcard from "./Postcard";
 
 
 
-export {Signup , Login ,Postcard , Logo , Input , RTE , Container , Button , Cherker , Postform, Footer } 
+
+export {Signup ,Select , Login ,Postcard , Logo , Input , RTE , Container , Button , Cherker , Postform, Footer } 
